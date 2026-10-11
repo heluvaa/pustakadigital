@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" role="img" aria-label="Sampul belum tersedia">
+  <rect width="200" height="300" fill="#d8ebe9"/>
+  <rect x="16" y="16" width="168" height="268" fill="none" stroke="#0f5c5a" stroke-width="2"/>
+  <text x="100" y="150" text-anchor="middle" font-family="Georgia,serif" font-size="16" fill="#0f5c5a">PustakaDigital</text>
+</svg>
